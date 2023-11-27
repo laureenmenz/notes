@@ -47,3 +47,6 @@ To become a successful programmer, you must also develop excellent problem-solvi
 
 # 2023-11-26
 - "Keep it simple, stupid!"
+
+# 2023-11-27
+- "Programming wisdom for today: 'Code is read much more often than it is written. Therefore, write your code for the reader, not the computer.' This means that in addition to making your code functional, it's important to consider how easily others can understand and maintain it. Use clear and descriptive variable names, write comments to explain complex logic, and structure your code in a way that makes sense to others. By prioritizing readability, you'll not only make life easier for your future self but also for anyone else who may need to work with your code."
