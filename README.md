@@ -249,3 +249,9 @@ In essence, keep it simple, make it clear, and practice good development habits 
 
 # 2024-01-11
 - "Keep it simple, stupid!"
+
+# 2024-01-12
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
+
+First, prioritize your tasks. When you're working on a project, it' s important to determine which tasks are most critical to the success of the project. By focusing on these tasks first, you can ensure that your code is of high quality and meets the requirements of your project goals. You can use techniques like the "MoSCoW" method to categorize your task as Must have, Should have or Could have.This will ensure you are focusing your efforts on the most important aspects of a problem. 
+Next, planning ahead is crucial. Before starting a new project or a difficult coding challenge, take some time to plan your approach. Think about the problem, break it down into smaller, manageable tasks and create a plan for how you will solve each task. Having a clear plan will make it easier to stay focused and avoid getting lost in the code. It will also help to reduce the amount of time spent debugging and fixing errors. Planning ahead also helps to ensure your solution is scalable and can be easily maintained in future.
