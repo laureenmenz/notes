@@ -520,3 +520,9 @@ Remember to stay flexible and adapt to changes in the project. You may need to r
 - "Today's programming wisdom: 'Premature optimization is the root of all evil' — Donald Knuth. Focus on writing clean, maintainable code first. Optimize only when necessary and after profiling. Remember that simplicity, clarity, and correctness trump micro-optimizations most of the time." 
 
 This quote emphasizes the importance of clear, well-structured programming over early-stage optimizations that often lead to complex, hard-to-maintain code. It suggests that before optimizing, one should ensure their code works correctly and is easy to understand. Profiling helps identify bottlenecks in performance, guiding where to focus optimization efforts effectively.
+
+# 2024-03-07
+- "Today's programming wisdom is to embrace the principle of 'Write Code That Is Easy to Delete, Not Easy to Extend.' This emphasizes the importance of simplicity and maintainability. As you develop, focus on writing modular, clean code that can be easily removed or replaced when requirements change, rather than over-engineering solutions that may become complex and burdensome in the long run." 
+
+In essence:
+"Program with a mindset that prioritizes disposability over extensibility; it's easier to add new functionality afresh than untangle convoluted logic built for future needs that often never materialize."
